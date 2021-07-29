@@ -1,0 +1,63 @@
+
+
+Skip to content
+Using Gmail with screen readers
+Meet
+New meeting
+Join a meeting
+Hangouts
+
+Conversations
+2.9 GB of 15 GB used
+Terms · Privacy · Programme Policies
+Last account activity: 13 minutes ago
+Details
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+/* common styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /*background color */
+  .nav-hero-bg, .carousel-bg{
+      background-color: #264653;
+  }
+
+  .btn-bg{
+    background-color: #E76F51;
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+  /* font color  */
+  .p-font{
+      color:#E0E0E0;
+      font-weight: 300;
+      size: 16px;
+      line-height: 24px;
+
+  }
+  
+  .p-text{
+      color: #E76F51;
+  }
+
+  /* gray-scaling  */
+  .gray-scale-1 img{
+    filter: grayscale(100%);
+  }
+  .gray-scale-2 img{
+    filter: grayscale(100%);
+  }
+css.txt
+Displaying index.txt.
